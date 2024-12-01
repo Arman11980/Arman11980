@@ -8,7 +8,7 @@
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
    <a href="https://vk.com/bikeshew"  target="_blank"><img src="https://avatars.mds.yandex.net/i?id=e34bb066e6dc669ea677f9b35fc37d5ec357da5b-7684353-images-thumbs&n=13e"></a
-   <a href="t.me/ArmanBikeshev""></a                                                                              
+   t.me/ArmanBikeshev                                                                             
 </p>
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>

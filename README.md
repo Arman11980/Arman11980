@@ -15,6 +15,6 @@
 ## :man_technologist: About Me :
 I am aspiring  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :zap: In my free time, I read
+- :zap: In my free time, I read, although there is very little of it
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **bikesarman@gmail.com**

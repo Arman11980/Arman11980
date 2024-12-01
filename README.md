@@ -8,6 +8,7 @@
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
    <a href="https://vk.com/bikeshew"  target="_blank"><img src="https://avatars.mds.yandex.net/i?id=e34bb066e6dc669ea677f9b35fc37d5ec357da5b-7684353-images-thumbs&n=13e"></a
+    <a href="t.me/@ArmanBikeshev"  target="_blank"><img src="[https://avatars.mds.yandex.net/i?id=e34bb066e6dc669ea677f9b35fc37d5ec357da5b-7684353-images-thumbs&n=13e](https://images.live.vkplay.ru/image/5349f059-ebb9-48dd-8887-3bd3617bfc61?change_time=1721452484&mw=640)"></a                                                                                                                                                                         
    t.me/@ArmanBikeshev                                                                                                                                                                         
 </p>
 

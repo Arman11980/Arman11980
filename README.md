@@ -8,7 +8,7 @@
 
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
-  https://vk.com/bikeshew
+   <a href="https://vk.com/bikeshew"  target="_blank"><img src="https://avatars.mds.yandex.net/i?id=e34bb066e6dc669ea677f9b35fc37d5ec357da5b-7684353-images-thumbs&n=13e"></a
 <!--   <a href="https://medium.com/@________"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
 </p>
 

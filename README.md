@@ -16,7 +16,7 @@
 I am aspiring  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :zap: In my free time, I read, although there is very little of it
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**(I'm not a wizard-I'm just learning)
 - 📫 How to reach me **bikesarman@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman11980&show_icons=true)
